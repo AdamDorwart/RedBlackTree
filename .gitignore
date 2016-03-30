@@ -1,0 +1,11 @@
+# Ignore root files/directories
+/*
+/*/
+
+# But not these ones
+!.gitignore
+!.gitmodules
+!Makefile
+!README.md
+!*.cpp
+!*.h
